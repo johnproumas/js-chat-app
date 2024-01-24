@@ -1,4 +1,4 @@
-This is a simple Node App using [Open AI](https://platform.openai.com/docs/overview), and [OpenAI](https://www.npmjs.com/package/openai) for querying OpenAI's API.
+This is a simple Node App using [Open AI](https://platform.openai.com/docs/overview) API, and [OpenAI](https://www.npmjs.com/package/openai) package for querying OpenAI's API.
 
 Uses the terminal as the way to communicate with the Assistant
 
